@@ -1,3 +1,5 @@
+![logo](AllThingsBugHunting.png)
+
 # AllThingsBugHunting
 
 > Collection of all  the things Bug Bounty Stuffs
