@@ -13,4 +13,4 @@ Like =>
 
 and more like that and here is the Demo
 
-![demo] (https://github.com/attacker-codeninja/AllThingsBugHunting/blob/main/Demo.png)
+![demo] (https://github.com/attacker-codeninja/AllThingsBugHunting/Demo.png)
